@@ -1,0 +1,20 @@
+{
+  "uuid": "f5a22468-0992-47b3-b7c8-7b75ce7349cf",
+  "plugins": [],
+  "libraries": [
+    {
+      "name": "mqttws",
+      "version": "3.1"
+    }
+  ],
+  "name": "mqtt-vernemq-emqtt-painter",
+  "title": "EMQTT Painter",
+  "description": "Cooperative painting using MQTT:",
+  "long-description": "Cooperative painting using MQTT.",
+  "version": "0.0.1",
+  "author-name": "Evothings",
+  "author-email": "build@evothings.com",
+  "index-file": "index.html",
+  "author-url": "https://evothings.com",
+  "cordova-id": "com.evothings.samples.mqtt.vernemq.emqtt.painter"
+}
